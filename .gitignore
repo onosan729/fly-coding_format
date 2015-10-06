@@ -1,0 +1,10 @@
+.git/
+.sass-cache/
+node_modules/
+dist/
+guide/
+
+**/.DS_Store
+**/*.map
+
+.vagrant
